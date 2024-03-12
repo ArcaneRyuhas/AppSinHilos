@@ -1,0 +1,14 @@
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.deps.json
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.runtimeconfig.json
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.dll
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.pdb
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.AssemblyInfoInputs.cache
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.AssemblyInfo.cs
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.csproj.CoreCompileInputs.cache
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.dll
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/refint/AppSinHilos.dll
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.pdb
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.genruntimeconfig.cache
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppSinHilos/obj/Debug/net8.0/ref/AppSinHilos.dll
